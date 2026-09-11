@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sharvankumarsingh.unsource",
+      "sha256_cert_fingerprints": [
+        "34:B5:D3:AE:5F:74:F8:B5:12:7F:B9:07:34:77:1A:DB:31:4E:8E:2C:DD:D2:E8:B6:BD:69:86:C2:B9:3E:2B:F6"
+      ]
+    }
+  }
+]
+
